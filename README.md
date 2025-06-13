@@ -13,8 +13,7 @@
 
 ### 📌 About Me
 
-- 🔭 I’m currently working on **Spello**, a gamified speech therapy app powered by AI.
-- 💼 Building **Bookstore API**, a RESTful backend application using Java and JAX-RS.
+- 🔭 I’m currently working on **Spello**, a gamified speech therapy app.
 - 🧠 Exploring the intersection of **Machine Learning** and **Backend Development**.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jalalhushama/)
 
