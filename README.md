@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm ozama jalal</h1>
 <h3 align="center">Aspiring Machine learning and software development enthusiast.</h3>
-<h3 align="center">💻 Passionate about AI, Data Science, and building innovative software solutions.</h3>
+<h5 align="center">💻 Passionate about AI, Data Science, and building innovative software solutions.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozama-j&label=Profile%20views&color=0e75b6&style=flat" alt="ozama-j" /> </p>
 
